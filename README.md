@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 Currently looking for an intership for the Summer of 2023
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderTsarapkine)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderTsarapkine)](https://github.com/anuraghazra/github-readme-stats)

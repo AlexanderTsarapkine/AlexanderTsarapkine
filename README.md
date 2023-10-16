@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 - 🧑‍🎓 I'm a 2B Computer Engineering Student at The University of Waterloo
-- 💻 Most recently worked as a Software Developer Co-op at the ODS
-- 🔭 Currently looking for an intership for Winter 2024
+- 💻 Software Developer Co-op at PointClickCare starting Winter 2024
+<!-- - 🔭 Currently looking for an intership for Winter 2024
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderTsarapkine)](https://github.com/anuraghazra/github-readme-stats)

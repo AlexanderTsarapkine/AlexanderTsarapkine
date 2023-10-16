@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🧑‍🎓 I'm a 2B Computer Engineering Student at The University of Waterloo
-- 💻 Software Developer Co-op at PointClickCare starting Winter 2024
+- 💻 Starting Software Developer Co-op at PointClickCare in Winter 2024
 <!-- - 🔭 Currently looking for an intership for Winter 2024
 
 

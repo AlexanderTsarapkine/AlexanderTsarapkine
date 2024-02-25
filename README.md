@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑‍🎓 I'm a 2B Computer Engineering Student at The University of Waterloo
-- 💻 Incoming Software Engineer co-op at PointClickCare starting Winter 2024
+- 🧑‍🎓 I'm a 3rd year Computer Engineering Student at The University of Waterloo
+- 💻 Software Engineer co-op at PointClickCare
 <!-- - 🔭 Currently looking for an intership for Winter 2024
 
 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🧑‍🎓 I'm a 3rd year Computer Engineering Student at The University of Waterloo
-<!-- - 💻 Software Engineer co-op at PointClickCare
+<!-- - 💻 Software Engineer co-op at PointClickCare -->
 - 🔭 Currently looking for an intership for Winter 2025
 
 

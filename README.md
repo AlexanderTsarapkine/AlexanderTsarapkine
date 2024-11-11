@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 - 🧑‍🎓 I'm a 3rd year Computer Engineering Student at The University of Waterloo
-<!-- - 💻 Software Engineer co-op at PointClickCare -->
-- 🔭 Currently looking for an intership for Winter 2025
+<!-- - 💻 Incoming Java Backend developer at Versa Networks-->
+<!-- - 🔭 Currently looking for an intership for Winter 2025 -->
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderTsarapkine)](https://github.com/anuraghazra/github-readme-stats)

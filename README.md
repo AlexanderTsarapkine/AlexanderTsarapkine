@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑‍🎓 I'm a 3rd year Computer Engineering Student at The University of Waterloo
-- 💻 Incoming Java Backend developer at Versa Networks
+- 🧑‍🎓 I'm a 4th year Computer Engineering Student at The University of Waterloo
+- 💻 Java Backend developer at Versa Networks
 <!-- - 🔭 Currently looking for an intership for Winter 2025 -->
 
 
